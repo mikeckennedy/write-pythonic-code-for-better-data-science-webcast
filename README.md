@@ -1,1 +1,3 @@
-# write-pythonic-code-for-better-data-science-webcast
+# Write Pythonic Code for Better Data Science
+
+By Michael Kennedy and Kevin Markham
